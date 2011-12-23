@@ -23,13 +23,13 @@
 		3813CCA814A53AAF00C59107 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3813CCAA14A53AAF00C59107 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3813CCAC14A53AAF00C59107 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3813CCB014A53AAF00C59107 /* touchMotion-Info.plist */ = {isa = PBXFileReference; path = "touchMotion-Info.plist"; sourceTree = "<group>"; };
+		3813CCB014A53AAF00C59107 /* touchMotion-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "touchMotion-Info.plist"; sourceTree = "<group>"; };
 		3813CCB214A53AAF00C59107 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3813CCB414A53AAF00C59107 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3813CCB614A53AAF00C59107 /* touchMotion-Prefix.pch */ = {isa = PBXFileReference; path = "touchMotion-Prefix.pch"; sourceTree = "<group>"; };
-		3813CCB714A53AAF00C59107 /* touchMotionAppDelegate.h */ = {isa = PBXFileReference; path = touchMotionAppDelegate.h; sourceTree = "<group>"; };
+		3813CCB614A53AAF00C59107 /* touchMotion-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "touchMotion-Prefix.pch"; sourceTree = "<group>"; };
+		3813CCB714A53AAF00C59107 /* touchMotionAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = touchMotionAppDelegate.h; sourceTree = "<group>"; };
 		3813CCB814A53AAF00C59107 /* touchMotionAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = touchMotionAppDelegate.m; sourceTree = "<group>"; };
-		3813CCBA14A53AAF00C59107 /* touchMotionViewController.h */ = {isa = PBXFileReference; path = touchMotionViewController.h; sourceTree = "<group>"; };
+		3813CCBA14A53AAF00C59107 /* touchMotionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = touchMotionViewController.h; sourceTree = "<group>"; };
 		3813CCBB14A53AAF00C59107 /* touchMotionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = touchMotionViewController.m; sourceTree = "<group>"; };
 		3813CCBE14A53AAF00C59107 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/touchMotionViewController_iPhone.xib; sourceTree = "<group>"; };
 		3813CCC114A53AAF00C59107 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/touchMotionViewController_iPad.xib; sourceTree = "<group>"; };
